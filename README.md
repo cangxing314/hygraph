@@ -31,8 +31,7 @@
 | Demo 1 | 输入「Transformer」→ 生成图谱 → 点击「自注意力机制」延伸子图谱 → 拖拽/缩放探索 |
 | Demo 2 | 基于已生成的图谱提问「QKV 是怎么计算的？」→ AI 流式回答 → 保存图谱 → 从历史记录重新加载 |
 
-（演示视频 / GIF 见 PR 描述）
-
+演示视频:【ai知识图谱助手演示】 https://www.bilibili.com/video/BV1pJ3G6MEzX/?share_source=copy_web&vd_source=8af7f8909a145e47ec1a5117ce0c3715
 ---
 
 ## Hy3 在系统中承担的角色
