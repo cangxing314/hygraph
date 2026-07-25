@@ -1,0 +1,18 @@
+# FastAPI 框架
+fastapi==0.115.6
+# ASGI 服务器（运行 FastAPI）
+uvicorn[standard]==0.34.0
+# 异步 HTTP 客户端（调 Hy3 API）
+httpx==0.28.1
+# OpenAI SDK（Hy3 兼容 OpenAI 协议，hy3_client.py 用它调用）
+openai==1.59.7
+# 数据库
+sqlalchemy[asyncio]==2.0.36
+aiomysql==0.2.0
+alembic==1.14.1
+# 配置管理
+pydantic-settings==2.7.1
+# 日志
+loguru==0.7.3
+# 环境变量
+python-dotenv==1.0.1
